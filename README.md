@@ -1,12 +1,28 @@
 # Getting Started with NLP
 
-![Book Cover](https://github.com/farrelrassya/GettingStartedwithNLP/blob/main/Cover.jpg)
+<img src="https://github.com/farrelrassya/GettingStartedwithNLP/blob/main/Cover.jpg" width="300" alt="Book Cover">
 
 ---
 
 ## Part 1: Introduction to Natural Language Processing (NLP)
 
 **Getting Started with NLP** is your comprehensive guide to understanding and applying foundational techniques in Natural Language Processing. Designed for beginners, this book bridges the gap between theoretical concepts and practical implementation. Readers will learn how to preprocess text data, extract meaningful insights, and build NLP applications using popular Python libraries. Whether you're a developer, data scientist, or enthusiast, this book equips you with the tools to tackle real-world NLP challenges.
+
+---
+
+## Brief Contents
+
+- **Chapter 1: Introduction** - *Page 1*  
+- **Chapter 2: Your first NLP example** - *Page 31*  
+- **Chapter 3: Introduction to information search** - *Page 71*  
+- **Chapter 4: Information extraction** - *Page 114*  
+- **Chapter 5: Author profiling as a machine-learning task** - *Page 151*  
+- **Chapter 6: Linguistic feature engineering for author profiling** - *Page 194*  
+- **Chapter 7: Your first sentiment analyzer using sentiment lexicons** - *Page 229*  
+- **Chapter 8: Sentiment analysis with a data-driven approach** - *Page 263*  
+- **Chapter 9: Topic analysis** - *Page 304*  
+- **Chapter 10: Topic modeling** - *Page 346*  
+- **Chapter 11: Named-entity recognition** - *Page 384*  
 
 ---
 
@@ -37,7 +53,7 @@ The book leverages industry-standard libraries to demonstrate NLP workflows:
 
 - **Natural Language Toolkit (NLTK)**: Chapters 2, 3, 5, 8, 10  
 - **spaCy**: Chapters 4, 6, 7, 8, 11  
-- **displaCy**: Chapters 4, 11 (for visualizing linguistic annotations)  
+- **displaCy**: Chapters 4, 11 (visualizing linguistic annotations)  
 - **scikit-learn**: Chapters 5, 6, 8, 9, 10 (machine learning pipelines)  
 - **gensim**: Chapter 10 (topic modeling implementations)  
 - **pyLDAvis**: Chapter 10 (interactive topic model visualization)  
@@ -47,13 +63,13 @@ The book leverages industry-standard libraries to demonstrate NLP workflows:
 
 ## What You’ll Learn
 
-- **Foundational Techniques**: Master text preprocessing, feature extraction, and linguistic analysis.  
-- **Hands-On Implementation**: Apply concepts using code examples and real-world datasets.  
-- **Toolkit Proficiency**: Gain experience with NLTK, spaCy, scikit-learn, and more.  
-- **Advanced Applications**: Explore topic modeling, named entity recognition, and ML integration.  
+- **Foundational Techniques**: Master text preprocessing, feature extraction, and linguistic analysis  
+- **Hands-On Implementation**: Apply concepts using code examples and real-world datasets  
+- **Toolkit Proficiency**: Gain experience with NLTK, spaCy, scikit-learn, and more  
+- **Advanced Applications**: Explore topic modeling, named entity recognition, and ML integration  
 
 By the end of this book, you’ll be prepared to design and deploy NLP solutions for tasks like sentiment analysis, document classification, and information extraction.  
 
 ---
 
-**Ready to dive into NLP? Let’s get started!** 🚀
+**Ready to unlock the power of language? Let’s begin!** 📖✨
